@@ -13,13 +13,12 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### The challenge
 
-[<img src="images/desktop-preview.jpg">](images/desktop-preview.jpg)
+[<img src="images/desktop-design.jpg">](images/desktop-design.jpg)
 
 This is the preview I was challenged with.
 
