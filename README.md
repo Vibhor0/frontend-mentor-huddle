@@ -56,8 +56,8 @@ This is my first challenge on Frontend Mentor.
 ## Author
 
 - Website - [Vibhor Singh](https://vibhor0.github.io/portfolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Vibhor0)
+- Frontend Mentor - [@Vibhor0](https://www.frontendmentor.io/profile/Vibhor0)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 
