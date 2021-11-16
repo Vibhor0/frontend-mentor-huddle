@@ -18,7 +18,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### The challenge
 
-[<img src="images/desktop-design.jpg">](images/desktop-design.jpg)
+[<img src="desktop-design.jpg">](desktop-design.jpg)
 
 This is the preview I was challenged with.
 
@@ -43,14 +43,11 @@ I made this.
 - CSS Grid
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
 This is my first challenge on Frontend Mentor.
 
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 
 ## Author
