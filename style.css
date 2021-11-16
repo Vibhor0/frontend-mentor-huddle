@@ -1,0 +1,55 @@
+body {
+    background-image: url("images/bg-desktop.svg");
+    background-color: hsl(257, 40%, 49%);
+    color: hsl(0, 0%, 100%);
+    font-family: 'Poppins', sans-serif;
+}
+
+.imglogo {
+    padding: 20px;
+}
+
+.imgmockup {
+    margin-top: 10px;
+    z-index: 1;
+}
+
+.divone {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    z-index: 2;
+    margin-top: -450px;
+    margin-left: 800px;
+    margin-right: 0px;
+    color: white;
+}
+
+.divtwo {
+    margin-top: 20px;
+    margin-left: 800px;
+    margin-right: 0px;
+}
+
+.divthree {
+    padding: 9px 0 0 0;
+    margin-top: 20px;
+    width: 200px;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 800px;
+    border-radius: 20px;
+    background-color: white;
+    color: hsl(257, 40%, 49%);
+    ;
+}
+
+a {
+    text-decoration: none;
+    color: hsl(300, 69%, 71%);
+}
+
+.divfour {
+    margin-top: 290px;
+    text-align: right;
+}
